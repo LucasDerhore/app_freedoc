@@ -20,6 +20,7 @@ Afin de pouvoir tout tester grace à la `gem 'table_print'`, je vous invite a fa
 - `tp Patient.all`
 - `tp Appointment.all`
 - `tp JoinTableSpecialty.all`
+- `tp City.all`
 
 
 <hr>
