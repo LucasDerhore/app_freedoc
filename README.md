@@ -14,7 +14,7 @@
 
 ## Jouer avec la console :
 
-Afin de pouvoir tout tester, je vous invite a faire les commandes suivantes :
+Afin de pouvoir tout tester grace à la `gem 'table_print'`, je vous invite a faire les commandes suivantes :
 
 - `tp Doctor.all`
 - `tp Patient.all`
